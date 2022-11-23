@@ -1,0 +1,9 @@
+{
+  "name": "z1.1-1.2",
+  "version": "0.0.0",
+  "description": "Z1.1-1.2",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
